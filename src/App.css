@@ -1,0 +1,77 @@
+.app-header .MuiToolbar-root {
+  background-color: #36302e;
+}
+
+.MuiOutlinedInput-input {
+  height: 0.4375em !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  top: -7px !important;
+}
+
+.form-group-inline {
+  text-align: center;
+  margin: 2rem auto;
+  display: flex;
+}
+
+.task-input-field {
+  width: 100%;
+}
+.task-input-field.MuiFormControl-root {
+  margin-right: 1rem;
+}
+
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+  width: 120% !important;
+  margin-left: -75px;
+}
+
+.edit-btn {
+  float: right;
+  margin-right: 20px;
+}
+
+.todo-list-text {
+  text-align: left;
+  font-size: 38px;
+  margin-left: -67px;
+}
+
+.primary-btn {
+  width: 62px;
+  height: 38px;
+}
+
+.delete-btn {
+  float: right;
+  color: red;
+}
+
+.check-box {
+  margin-top: 6px !important;
+}
+
+.is-task-completed .task-name-label {
+  text-decoration: line-through;
+}
+.task-name-label {
+  font-size: 22px;
+}
+
+.app-footer {
+  margin-top: 1rem;
+}
+.app-footer .complete-tasks-btn {
+  margin-right: 1rem;
+}
+
+.app-container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.page-container {
+  max-width: 640px;
+  margin: 0 auto;
+}
